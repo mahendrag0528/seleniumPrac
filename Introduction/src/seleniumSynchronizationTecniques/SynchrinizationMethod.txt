@@ -1,0 +1,10 @@
+  
+  4 types:
+  
+  -> Implicit Wait = applicable to all scenarios.
+  -> Explicit Wait = applicable to only specific scenarios
+  -> thread.sleep = this is to pause entire script
+  -> Fluent Wait = 
+  
+  *** -> go with both implicit and explicit wait together is good choice for real world projects....
+  
